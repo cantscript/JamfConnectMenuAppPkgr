@@ -10,7 +10,7 @@ In recent releases of Jamf Connect the menu bar app is not included in favour of
 
 
 #### Blog Resources
-**[JCMenuPkgr]()** <br>
+**[JCMenuPkgr](https://github.com/cantscript/JamfConnectMenuAppPkgr/tree/main/JCMenuPkgr)** <br>
 
 * Clone or download repo
 * Keep JCMenuPkgr.sh in the folder enclosed folder
