@@ -6,7 +6,7 @@
 </p>
 
 
-In recent releases of Jamf Connect the menu bar app is not included in favour of using Self Service + for Jamf Pro Admins...but what if you're a Jamf School Admin wanting to keep local and cloud passwords in sync with Connect? In the blog, [Continue To Sync Passwords with Jamf Connect and Jamf School]() we explore the options and workflows.
+In recent releases of Jamf Connect the menu bar app is not included in favour of using Self Service + for Jamf Pro Admins...but what if you're a Jamf School Admin wanting to keep local and cloud passwords in sync with Connect? In the blog, [Continue To Sync Passwords with Jamf Connect and Jamf School](https://cantscript.com/posts/continue-to-sync-passwords-with-jamf-connect-and-jamf-school/) we explore the options and workflows.
 
 
 #### Blog Resources
